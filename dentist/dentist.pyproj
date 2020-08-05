@@ -314,6 +314,7 @@
     <Content Include="static\website\scss\utilities\_responsive.scss" />
     <Content Include="static\website\scss\utilities\_variables.scss" />
     <Content Include="static\website\scss\widget.scss" />
+    <Content Include="website\templates\website\base.html" />
     <Content Include="website\templates\website\contact.html" />
     <Content Include="website\templates\website\home.html" />
   </ItemGroup>
