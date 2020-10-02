@@ -314,9 +314,13 @@
     <Content Include="static\website\scss\utilities\_responsive.scss" />
     <Content Include="static\website\scss\utilities\_variables.scss" />
     <Content Include="static\website\scss\widget.scss" />
+    <Content Include="website\templates\website\about.html" />
+    <Content Include="website\templates\website\appointment.html" />
     <Content Include="website\templates\website\base.html" />
     <Content Include="website\templates\website\contact.html" />
     <Content Include="website\templates\website\home.html" />
+    <Content Include="website\templates\website\pricing.html" />
+    <Content Include="website\templates\website\service.html" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="dentist\" />
